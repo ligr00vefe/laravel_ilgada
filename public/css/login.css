@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Noto+Sans+KR:wght@700&display=swap');
+body {font-family: 'Nanum Gothic', sans-serif;}
+
+/*로그인*/
+.input-text {max-width: 450px; width: 100%; height: 60px; line-height: 58px; border: 1px solid #c8c8c8;
+    font-size: 16px; color: #000; padding: 0 21px; font-weight: 400; background: #EBEBEB;  margin-bottom: 15px;}
+.btn_submit {width: 100%; max-width: 200px; height:60px; line-height: 60px; background: #363636; font-size: 16px; font-weight: bold; color: #fff; border-radius: 100px;cursor:pointer;}
+
+.login-container {max-width: 1240px; width: 100%; height:850px; margin: 0 auto; padding: 0 20px; background-image: url('../img/login_background.png');  background-size: cover; background-position: 40% 80%;}
+.login-box {max-width: 600px; width: 100%; margin: 7% auto 0; border: 2px solid #00217B; border-radius: 20px; height: 600px; background-color: #fff}
+
+.box-logo {text-align: center; margin-top: 70px; }
+.box-logo img {width: 142px; height: 58px; }
+.box-logo p {letter-spacing: -0.6px; font-size: 20px; font-weight:bold; margin-top: 18px;}
+
+.box-content {margin-top: 53px; text-align: center}
+
+.content-guide {margin-top: 18px; }
+.content-guide-info {margin-top: 40px;}
+.content-guide-info a {color: #898989; font-size: 16px;cursor:pointer;}
+.content-guide-info .btn-register {display:block;margin-top: 30px;}
+
+
+/*비밀번호 확인*/
+.pass-confirm-tit {font-family:"Noto Sans KR", "Nanum Gothic", Sans-serif;font-size:30px;font-weight:bold;letter-spacing: -0.9px;color:#000;}
+
+.content-guide {margin-top:30px;}
+.content-guide p {font-size:20px;letter-spacing: -0.6px;}
+
+.confirm-info {}
+.confirm-info span {font-weight:bold;}
+.confirm-info .frm_input {margin-top:20px;}
+
+
